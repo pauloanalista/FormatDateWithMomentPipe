@@ -5,9 +5,9 @@ Pipe criado para formatar datas usando moment no Angular.
 O pipe foi criado para sanar um problema que tive na hora de formatar datas em meu app feito em Ionic.
 Meu JSON retornava uma data no formato 2017-08-01 00:00:00 e ao usar a formatação do angular 
 
-{{escala.data | date : 'dd/MM/yyyy' }} no android retornava 01/08/2017 e no iOS 31/07/2017, isso devido a hora está zerada, ou seja, no iOS esta pegando 3 horas atrás.
+{{escala.data | date : 'dd/MM/yyyy' }} no android retornava 01/08/2017 e no iOS 31/07/2017, isso devido a hora estar zerada, ou seja, no iOS esta pegando 3 horas atrás.
 
-Para resolver o problema criei um pipe que usa a formatação da biblioteca moment
+Para resolver o problema criei um pipe que usa a formatação da biblioteca [momentjs](https://momentjs.com/)
 
 
 ## Instalação
