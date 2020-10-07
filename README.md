@@ -54,3 +54,12 @@ Agora só falta aplicar na sua view o pipe criado na data desejada.
 
 Agora basta passar um formato de data que o moment aceita para trabalhar da forma correta.
 
+# VEJA TAMBÉM
+## Grupo de Estudo no Telegram
+- [Participe gratuitamente do grupo de estudo](https://t.me/blogilovecode)
+
+## Cursos baratos!
+- [Meus cursos](https://olha.la/udemy)
+
+## Novidades, cupons de descontos e cursos gratuitos
+https://olha.la/ilovecode-receber-cupons-novidades
